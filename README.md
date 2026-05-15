@@ -165,7 +165,7 @@ El sistema fue desarrollado pensando en:
 # 📂 Estructura del proyecto
 
 ```bash
-CarRentalsAgency/
+PlataformaGestionRentaAutomoviles/
 │
 ├── app/
 │
@@ -206,7 +206,7 @@ CarRentalsAgency/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/your-user/CarRentalsAgency.git
+git clone https://github.com/isairey/PlataformaGestionRentaAutomoviles.git
 ```
 
 ---
@@ -214,7 +214,7 @@ git clone https://github.com/your-user/CarRentalsAgency.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd CarRentalsAgency
+cd PlataformaGestionRentaAutomoviles
 ```
 
 ---
@@ -380,13 +380,13 @@ git push origin feature/nueva-funcionalidad
 
 ---
 
-# 👨‍💻 Comunidad
+# 👨‍💻 Desarrollador
 
 <div align="center">
 
-## CarRentalsAgency — gestión moderna de renta vehicular
+## Isai Reyes — Full Stack Developer
 
-Plataforma enfocada en administración de automóviles, reservaciones y automatización empresarial 🚗
+Desarrollador apasionado por la creación de plataformas modernas, sistemas administrativos, aplicaciones Full Stack y soluciones escalables 🚀
 
 </div>
 
